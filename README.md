@@ -6,17 +6,17 @@ Quanchain leverages Quantum Artificial Intelligence (Quantum AI) to transform su
 
 ## Key Features
 - **Quantum Optimization:** Solve complex supply chain problems (e.g., routing, inventory management) with quantum algorithms.
-- **Sustainability Goals Alignment:** Directly contributes to SDGs such as responsible consumption and production (Goal 12) and climate action (Goal 13).
+- **Sustainability Goals Alignment:** Directly contributes to SDGs such as responsible consumption and production and climate action.
 - **AI-Powered Insights:** Leverages machine learning models to predict demand and optimise resources.
 - **Transparency and Traceability:** Incorporates blockchain technology for secure and auditable supply chain operations.
 
 ## Technologies Used
-Quantum Computing: Qiskit, D-Wave Ocean SDK
-Machine Learning: TensorFlow, PyTorch
-Blockchain: Ethereum, Hyperledger Fabric
-Backend: Python, Flask, or Node.js
-Frontend: React.js
-Database: PostgreSQL
+- **Quantum Computing:** Qiskit, D-Wave Ocean SDK
+- **Machine Learning:** TensorFlow, PyTorch
+- **Blockchain:** Ethereum, Hyperledger Fabric
+- **Backend:** Python, Flask, or Node.js
+- **Frontend:** React.js
+- **Database:** PostgreSQL
 
 Installation
 ## Prerequisites
